@@ -92,7 +92,7 @@
   }
 
   .ad-img {
-    background: url(images/image-product-mobile.jpg);
+    background: url(/images/image-product-mobile.jpg);
     background-size: 100%;
     background-position: center;
     width: 400px;
